@@ -1,0 +1,207 @@
+*
+{
+	margin:0px;
+     padding:0px;
+}
+#wrap
+{
+	background:white;
+	margin:0px;
+	padding:0px;
+	height:100%;
+	
+	text-align:center;
+}
+#headerout {
+    background: #044284;
+    text-align: center;
+}
+#main
+{height:550px;;
+}
+    
+
+#header{	
+    width: 1200px;
+    height: 80px;
+    background: #044284;
+    padding: 0px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+   overflow: auto;
+   margin-top:1px;
+   
+}
+#logo
+{
+	margin-top:5px;
+padding: 14px; 
+   
+  width: 270px;
+float: left;
+ 
+}
+a {
+   
+    color: #069;
+    text-decoration: underline;
+	
+	
+
+}
+#content 
+{
+    padding: 0px ;
+    width: 630px;
+float: left;
+
+
+}
+#right 
+{
+    width: 300px;
+    float: right;
+
+	
+	
+	
+	
+}
+
+#footer {
+	
+	margin:0px;
+    background: #333;
+    padding: 20px 0px;
+    font-size: 12px;
+    color: #ddd;
+text-align: center;
+bottom:0;
+
+}
+h1 {
+    color: #930;
+    font-size: 17pt;
+    font-weight: bold;
+    padding: 0px;
+margin: 12px 0;
+}
+#clear {
+    margin-left: auto;
+    margin-right: auto;
+    clear: both;
+    height: 1px;
+}
+p 
+{
+    margin: 5px 0 8px 0px;
+	color:black;
+	
+}
+#leftinput 
+{
+    width: 280px;
+    float: left;
+	border:1px solid black;
+}
+#rightoutput {
+    width: 320px;
+    float: right;
+	border:1px solid black;
+}
+#topmenu ul {
+    color: #000;
+    border-bottom: 1px solid #446EC0;
+    margin: 12px 0px 0px 0px;
+    padding: 0 0 5 0;
+    padding-left: 8px;
+    font-size: 13px;
+    font-weight: bold;
+}
+#topmenu ul li {
+    display: inline;
+    overflow: hidden;
+    list-style-type: none;
+margin-left: 3px;
+}
+#topmenu ul #menuon a {
+    color: #000;
+    background: #eee;
+    border: 1px solid #446EC0;
+    padding: 5px 5px 5px 5px;
+    margin: 0;
+    text-decoration: none;
+    border-bottom: 2px solid #eee;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+}
+#topmenu ul li a, #topmenu ul li a:visited {
+    color: #fff;
+    background: #446EC0;
+    border: 1px solid #446EC0;
+    padding: 5px 5px 5px 5px;
+    margin: 0;
+    text-decoration: none;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+}
+.panel2 {
+    background-color: #eeeeee;
+    padding: 5px;
+    border-right: 1px solid #bbbbbb;
+    border-bottom: 1px solid #bbbbbb;
+    border-left: 1px solid #bbbbbb;
+}
+style.css:1
+body, p, td, div, span {
+    font-family: arial,helvetica,sans-serif;
+    font-size: 13px;
+    color: #000;
+}
+table[Attributes Style] {
+    width: 263px;
+}
+table {
+    white-space: normal;
+    line-height: normal;
+    font-weight: normal;
+    font-size: medium;
+    font-style: normal;
+    color: -internal-quirk-inherit;
+    text-align: start;
+    font-variant: normal normal;
+}
+element.style {
+    display: block;
+}
+table[Attributes Style] {
+    width: 263px;
+    background-color: rgb(238, 238, 238);
+}
+element.style {
+    display: none;
+}
+tbody {
+    display: table-row-group;
+    vertical-align: middle;
+    border-color: inherit;
+}
+tr {
+    display: table-row;
+    vertical-align: inherit;
+    border-color: inherit;
+}
+input[type=text], input[type=url], input[type=tel], input[type=number], input[type=color], input[type=email], select {
+    border: 1px solid #044284;
+    border-radius: 2px;
+    box-shadow: 1px 1px 2px #666;
+}
+td, th {
+    display: table-cell;
+vertical-align: inherit;
+}
+input {
+    padding: 3px 2px;
+    color: #000;
+}
